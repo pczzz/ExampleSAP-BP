@@ -7,7 +7,7 @@ The code is capable of reading any SAP GRID type table into type datatable, comm
 # Usage
 
 The whole script exists one file:
-- [Program.cs](https://github.com/JurajPalusek/MultiThreading-BP/blob/main/Program.cs)
+- [SAPExample.vb](https://github.com/JurajPalusek/ExampleSAP-BP/blob/main/SAPExample.vb)
 
 
 # Contributing
