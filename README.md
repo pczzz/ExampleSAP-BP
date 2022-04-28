@@ -1,6 +1,6 @@
 # ExampleSAP-BP
 
-This is a simple example script shocasing the SAP automation techniques used in Blue Prism.
+This is a simple example script showcasing the SAP automation techniques used in Blue Prism.
 The code is capable of reading any SAP GRID type table into type datatable, commonly called "Collection" in Blue Prism.
 
 
