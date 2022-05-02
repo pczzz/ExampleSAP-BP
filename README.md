@@ -6,7 +6,7 @@ The code is capable of reading any SAP GRID type table into type datatable, comm
 
 # Usage
 
-The whole script exists one file:
+The whole script exists in one file:
 - [SAPExample.vb](https://github.com/JurajPalusek/ExampleSAP-BP/blob/main/SAPExample.vb)
 
 
